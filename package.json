@@ -1,0 +1,11 @@
+{
+    "name": "feedsync",
+    "version": "25.3.31",
+    "author": "Kevin Huang",
+    "scripts": {
+        "lint": "bun tsc & bun eslint"
+    },
+    "devDependencies": {
+        "@aephonics/config": "latest"
+    }
+}
