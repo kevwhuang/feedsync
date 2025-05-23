@@ -1,6 +1,6 @@
 {
     "name": "feedsync",
-    "version": "25.5.2",
+    "version": "25.5.23",
     "author": "Kevin Huang",
     "scripts": {
         "lint": "bun tsc & bun eslint"
